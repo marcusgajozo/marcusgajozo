@@ -2,8 +2,6 @@
 
 Desenvolvedor full stack com foco em **backend**, no ecossistema TypeScript. Trabalho na Imagetech, em plataformas de governo do Mato Grosso do Sul, com NestJS em microsserviços, RabbitMQ e PostgreSQL.
 
-**Buscando vaga júnior/pleno de desenvolvimento com foco em backend.** Remoto ou Campo Grande/MS.
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -15,8 +13,6 @@ Desenvolvedor full stack com foco em **backend**, no ecossistema TypeScript. Tra
 **[api-sistema-manicure](https://github.com/marcusgajozo/api-sistema-manicure)** — API REST de gestão para salão de manicure, 192 commits. NestJS 11 com TypeORM e PostgreSQL, autenticação JWT guardada em cookie httpOnly, migrações versionadas, internacionalização com nestjs-i18n, documentação Swagger, testes unitários e de integração, e pipeline de CI.
 
 **[api-portfolio-marcusgajozo](https://github.com/marcusgajozo/api-portfolio-marcusgajozo)** — API GraphQL que serve este portfólio, 69 commits. Apollo com MongoDB e Mongoose, autenticação por access e refresh token, e paginação, filtro e ordenação construídos sobre decorators reutilizáveis em vez de repetidos em cada módulo.
-
-**[componentes-react](https://github.com/marcusgajozo/componentes-react)** — biblioteca de componentes React em TypeScript, com testes e documentação.
 
 **[ecobrasil-aventura-web](https://github.com/marcusgajozo/ecobrasil-aventura-web)** — jogo educativo 3D sobre os biomas brasileiros, com React Three Fiber, 354 commits. Foi aqui que aprendi a lidar com performance de renderização.
 
@@ -35,3 +31,4 @@ Padrão Saga para transações distribuídas, ADR para registrar decisões de ar
 ## Contato
 
 - LinkedIn: [in/marcusgajozo](https://www.linkedin.com/in/marcusgajozo)
+- E-mail: marcusgajozo@gmail.com
