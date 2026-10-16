@@ -10,11 +10,11 @@ Desenvolvedor full stack com foco em **backend**, no ecossistema TypeScript. Tra
 
 ## Projetos em destaque
 
-**[api-sistema-manicure](https://github.com/marcusgajozo/api-sistema-manicure)** — API REST de gestão para salão de manicure, 192 commits. NestJS 11 com TypeORM e PostgreSQL, autenticação JWT guardada em cookie httpOnly, migrações versionadas, internacionalização com nestjs-i18n, documentação Swagger, testes unitários e de integração, e pipeline de CI.
+**[api-sistema-manicure](https://github.com/marcusgajozo/api-sistema-manicure)** — API REST de gestão para salão de manicure. NestJS 11 com TypeORM e PostgreSQL, autenticação JWT guardada em cookie httpOnly, migrações versionadas, internacionalização com nestjs-i18n, documentação Swagger, testes unitários e de integração, e pipeline de CI.
 
-**[api-portfolio-marcusgajozo](https://github.com/marcusgajozo/api-portfolio-marcusgajozo)** — API GraphQL que serve este portfólio, 69 commits. Apollo com MongoDB e Mongoose, autenticação por access e refresh token, e paginação, filtro e ordenação construídos sobre decorators reutilizáveis em vez de repetidos em cada módulo.
+**[api-portfolio-marcusgajozo](https://github.com/marcusgajozo/api-portfolio-marcusgajozo)** — API GraphQL que serve este portfólio. Apollo com MongoDB e Mongoose, autenticação por access e refresh token, e paginação, filtro e ordenação construídos sobre decorators reutilizáveis em vez de repetidos em cada módulo.
 
-**[ecobrasil-aventura-web](https://github.com/marcusgajozo/ecobrasil-aventura-web)** — jogo educativo 3D sobre os biomas brasileiros, com React Three Fiber, 354 commits. Foi aqui que aprendi a lidar com performance de renderização.
+**[ecobrasil-aventura-web](https://github.com/marcusgajozo/ecobrasil-aventura-web)** — jogo educativo 3D sobre os biomas brasileiros, com React Three Fiber. Foi aqui que aprendi a lidar com performance de renderização.
 
 ## Stack
 
